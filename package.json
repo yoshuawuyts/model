@@ -7,7 +7,7 @@
     "emitter-component": "~1.1.1",
     "collection": "git://github.com/component/collection#0.0.2",
     "each-component": "~0.1.0",
-    "superagent": "~0.16.0"
+    "superagent": "~2.0.0"
   },
   "devDependencies": {
     "express": "3.0.0"
